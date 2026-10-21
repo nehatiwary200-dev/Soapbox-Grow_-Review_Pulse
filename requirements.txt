@@ -1,2 +1,0 @@
-streamlit>=1.40,<2
-mcp[cli]==1.30.0
